@@ -1,4 +1,4 @@
-# Akıllı Otopark Sistemi 🚗
+# Akıllı Otopark Sistemi 
 
 Bu proje Arduino kullanılarak geliştirilmiş bir otopark otomasyon sistemidir. 
 Sensörler ile araç giriş-çıkışı algılanır ve servo motor ile bariyer kontrolü sağlanır.
@@ -35,8 +35,3 @@ Sensörler ile araç giriş-çıkışı algılanır ve servo motor ile bariyer k
 - Araç çıktıktan sonra boş yer sayısı güncellenir
 - Otopark doluysa giriş engellenir ve uyarı verilir
 
-## Kurulum
-1. Arduino IDE ile `.ino` dosyasını aç
-2. Kart ve port seçimini yap
-3. Kodu Arduino'ya yükle
-4. Devre bağlantılarını tamamla
